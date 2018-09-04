@@ -1,0 +1,25 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "A Website that will let you search gifs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Giphy-Search-Application"
+  },
+  "keywords": [
+    "Gifs",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Akhtar Zaman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "giphy-api": "^1.2.7"
+  }
+}
